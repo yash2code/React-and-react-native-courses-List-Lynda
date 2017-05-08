@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Building an App with ReactJS and MeteorJS",
+    "category": "react",
+    "description": "Meteor and React are a powerhouse combination. Meteor gives you a fast, easy-to-use solution for data management across clients and servers, and React gives you a way to structure your app's UI from reusable components. The combination allows you to create your dream apps: dynamic, data driven, and cross-platform.",
+    "link": "https://www.lynda.com/React-js-tutorials/Building-App-React-js-MeteorJS/533228-2.html",
+    "release_date": "12/21/2016",
+    "views": "21,160",
+    "image": "https://cdn.lynda.com/course/533228/533228-636179098122239600-16x9.jpg"
+  },
+  {
+    "id": 2,
+    "title": "React.js Essential Training",
+    "category": "native",
+    "description": "Among all other JavaScript libraries, React.js stands out. It relies on reusable components, not templates, for UI development, allowing developers to render views where data changes over time. React applications are more scalable and more maintainable, making developers more efficient and users more satisfied.",
+    "link": "https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3aReact%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2",
+    "release_date": "12/24/2016",
+    "views": "78,286",
+    "image": "https://cdn.lynda.com/course/496905/496905-636178336143345335-16x9.jpg"
+  },
+  {
+    "id": 3,
+    "title": "React.js Essential Training",
+    "category": "react",
+    "description": "Among all other JavaScript libraries, React.js stands out. It relies on reusable components, not templates, for UI development, allowing developers to render views where data changes over time. React applications are more scalable and more maintainable, making developers more efficient and users more satisfied.",
+    "link": "https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3aReact%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2",
+    "release_date": "12/24/2016",
+    "views": "78,286",
+    "image": "https://cdn.lynda.com/course/496905/496905-636178336143345335-16x9.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Learn React.js: The Basics",
+    "category": "native",
+    "description": "A new JavaScript library has arrived: React.js. React.js is designed to make the process of building modular, reusable user interface components simple and intuitive. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes",
+    "link": "https://www.lynda.com/React-js-tutorials/Learn-React-js-Basics/519668-2.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3aReact%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2",
+    "release_date": "09/27/2016",
+    "views": "156,810",
+    "image": "https://cdn.lynda.com/course/519668/519668-636102350243535480-16x9.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Learn React.js: The Basics",
+    "category": "react",
+    "description": "A new JavaScript library has arrived: React.js. React.js is designed to make the process of building modular, reusable user interface components simple and intuitive. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes",
+    "link": "https://www.lynda.com/React-js-tutorials/Learn-React-js-Basics/519668-2.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3aReact%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2",
+    "release_date": "09/27/2016",
+    "views": "156,810",
+    "image": "https://cdn.lynda.com/course/519668/519668-636102350243535480-16x9.jpg"
+  },
+  {
+    "id": 6,
+    "title": "React Native: Building Mobile Apps",
+    "category": "native",
+    "description": "React Native is almost ready for primetime. In fact, companies like Facebook are already using it to create native mobile apps—with native performance—for a variety of platforms. You too can harness the power of React Native to build your own native projects, using JavaScript and the familiar React.js framework.",
+    "link": "https://www.lynda.com/React-Native-tutorials/React-Native-Building-Mobile-Apps/547379-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3aReact%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2",
+    "release_date": "01/24/2017",
+    "views": "17,907",
+    "image": "https://cdn.lynda.com/course/547379/547379-636205141682828443-16x9.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Learning Redux",
+    "category": "react",
+    "description": "Redux is a JavaScript library for managing client data in apps. You can use Redux together with React or with any other view library. Inspired by Flux, Redux attempts to make state mutations predictable by imposing certain restrictions on how and when updates can happen. ",
+    "link": "https://www.lynda.com/React-js-tutorials/Learning-Redux/540345-2.html?srchtrk=index%3a9%0alinktypeid%3a2%0aq%3aReact%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2",
+    "release_date": "12/23/2016",
+    "views": "21,833",
+    "image": "https://cdn.lynda.com/course/540345/540345-636178326778026710-16x9.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Learning Redux",
+    "category": "native",
+    "description": "Redux is a JavaScript library for managing client data in apps. You can use Redux together with React or with any other view library. Inspired by Flux, Redux attempts to make state mutations predictable by imposing certain restrictions on how and when updates can happen. ",
+    "link": "https://www.lynda.com/React-js-tutorials/Learning-Redux/540345-2.html?srchtrk=index%3a9%0alinktypeid%3a2%0aq%3aReact%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2",
+    "release_date": "12/23/2016",
+    "views": "21,833",
+    "image": "https://cdn.lynda.com/course/540345/540345-636178326778026710-16x9.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Building a Web Interface with React.js",
+    "category": "react",
+    "description": "React is a JavaScript library for creating user interfaces that display dynamic data. Because of its reusable components and unique data rendering approach, the web interfaces you create with React are flexible, fast, and lightweight.",
+    "link": "https://www.lynda.com/React-js-tutorials/Building-Web-Interface-React-js/495271-2.html?srchtrk=index%3a4%0alinktypeid%3a2%0aq%3aReact%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2",
+    "release_date": "07/26/2016",
+    "views": "62,462",
+    "image": "https://cdn.lynda.com/course/495271/495271-636051283523699944-16x9.jpg"
+  }
+]
